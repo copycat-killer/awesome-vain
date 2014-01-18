@@ -351,9 +351,9 @@ to avoid wasting space.
 See the `browse` layout for an explanation of `extra_padding` and
 `ncol`.
 
-### uselessfair
-This is a duplicate of the stock `fair` layouts. However, I added
-"useless gaps" (see below) to this layout. Use it like this:
+### uselessfair and uselesstile
+These are duplicates of the stock `fair` and `tile` layouts. However, I added
+"useless gaps" (see below). Use like this:
 
 	awful.layout.set(vain.layout.uselessfair, tags[1][7])
 

@@ -1,4 +1,4 @@
-This is a port of [awesome-vain](https://github.com/vain/awesome-vain) to [Awesome](http://awesome.naquadah.org) 3.5.x.
+This is a port of [awesome-vain](https://github.com/vain/awesome-vain) to [Awesome](http://awesomewm.org) 3.5.x.
 
 I started hacking this too much that it became something else.
 
